@@ -1,5 +1,5 @@
 # win98.css
-Windows 98 inspired CSS
+Windows 98 inspired CSS, originally created for my NeoCities site [https://flipp3rrr.neocities.org/programming/python/].
 ## Installation
 First put the `win98.css` and `mwin98.css` files in the root directory of your site, then adde the code below to the `<head>` in your `html` files to use the CSS. For an example of this see `example.html`.
 ```html
