@@ -22,3 +22,5 @@ In the `/buttons/` directory you'll find 88x31 GIF files, these can be used as r
 ```html
 <p><a href="url"><img class="smallbutton" src="/buttons/github.gif" alt="View this on my Github"></a></p>
 ```
+### Fonts
+win98.css was originally made with [SHPinscher](https://www.fontsquirrel.com/fonts/sh-pinscher), but any font would work.
